@@ -11,11 +11,5 @@ A friend of mine asked me to write an application that would allow you to create
 
 ## Screenshots
 ![Main window](/images/main.png)
-
-The main window shows an overview of your list of targets to ping. For each target it displays their latest status, uptime and downtime.
 ![Graph](/images/graph.png)
-
-The detail view features a graph of all recorded ping-requests.
 ![Add target](/images/add_target.png)
-
-One can add targets by either typing out a name and an IP address or by resolving a hostname.
